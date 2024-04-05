@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Blink Labs</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/blinklabs-io/docs-site',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.com/5fPRZnX4qW',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/blinklabs-io/docs-site',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Blink Labs',
   },
 }
 
