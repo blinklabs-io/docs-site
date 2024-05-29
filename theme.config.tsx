@@ -13,6 +13,9 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Blink Labs',
   },
+  sidebar: {
+    defaultMenuCollapseLevel: 1,
+  },
 }
 
 export default config

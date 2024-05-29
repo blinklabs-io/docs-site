@@ -1,0 +1,6 @@
+{
+  "ansible": "Ansible",
+  "compose": "Docker Compose",
+  "containers": "Docker Container Images",
+  "helm": "Helm Charts"
+}
