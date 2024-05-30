@@ -1,15 +1,32 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Documentation",
   "about": {
     "title": "About",
     "type": "page"
   },
+  "-- Projects": {
+    "type": "separator",
+    "title": "Projects"
+  },
+  "adder": "",
+  "bluefin": "",
+  "bursa": "",
+  "cardano-node-api": "Cardano Node API",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
     "href": "https://twitter.com/blinklabs_io",
     "newWindow": true
-  }
+  },
+  "gouroboros": "gOuroboros",
+  "node": "Node",
+  "nview": "nView",
+  "plutigo": "",
+  "tx-submit-api": "",
+  "txtop": "TxTop",
+  "-- Infrastructure": {
+    "type": "separator",
+    "title": "Infrastructure"
+  },
+  "devops": "DevOps"
 }
